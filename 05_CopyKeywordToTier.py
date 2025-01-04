@@ -4,8 +4,8 @@ import os
 from praatio import textgrid
 
 # 入力ディレクトリと出力ディレクトリを指定
-input_dir = '/Users/chuyu/Library/CloudStorage/Dropbox/research/2024_dvandva_coordinate_TCP/2024dvandvaExp/intermediateResultFiles/TextGridAddTargetTier'  # TextGridファイルが保存されているフォルダ
-output_dir = '/Users/chuyu/Library/CloudStorage/Dropbox/research/2024_dvandva_coordinate_TCP/2024dvandvaExp/intermediateResultFiles/TextGridAddTargetTier/MoveTier'  # 更新されたファイルの保存先
+input_dir = '/Users'  # TextGridファイルが保存されているフォルダ
+output_dir = '/Users'  # 更新されたファイルの保存先
 
 
 # 検索するキーワードのリスト
